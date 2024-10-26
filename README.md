@@ -1,1 +1,1 @@
-# ☕️ Java Desr Örnekleri
+# ☕️ Java Ders Örnekleri
